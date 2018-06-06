@@ -1,3 +1,7 @@
+# AIM is to produce the accuracy of the model in three different cases: Using bigrams, trigrams and binomial naive bayes.
+
+
+
 import pandas as pd
 import nltk
 from math import log
