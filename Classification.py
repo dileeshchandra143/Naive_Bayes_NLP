@@ -1,3 +1,6 @@
+#Aim is to produce the accuracy of the model with laplacian smoothing and a n-smoothing.
+
+
 import pandas as pd
 import nltk
 from math import log
